@@ -1,0 +1,3 @@
+How to role it:
+
+/opt/local/bin/python2.6 sniff.py en1 'port 80'
